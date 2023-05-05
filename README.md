@@ -6,7 +6,7 @@
 
 - Contém um arquivo de texto, formatado para inserir nome e idade. 
 
-- Siga a formatação e insira os nomes e as respectivas idades. 
+- Siga a formatação, insira os nomes e as respectivas idades. 
 
 - Salve o arquivo txt.
 
